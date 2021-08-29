@@ -1,4 +1,5 @@
 # Chatbot: Rule Based + Self Learning
+![alt text](https://github.com/fahadmehfooz/Chatbot-Rule-Based-Self-Learning-/blob/master/images/header-chat-box.png)
 
 ## Description
 * Take an input from the user using speech on what you want to search.
@@ -19,7 +20,6 @@
 ## Data Used
 **Data Source**: hhttps://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963?page=0&citems=10
 
-![alt text](https://github.com/fahadmehfooz/Chatbot-Rule-Based-Self-Learning-/blob/master/images/header-chat-box.png)
 
 
 
